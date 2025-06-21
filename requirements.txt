@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+watchdog
+pillow
+python-multipart
+jinja2
